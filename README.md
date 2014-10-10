@@ -9,4 +9,4 @@ It consists two parts:
 1. Searching the path through the maze using A* search algorithm,
 2. Aircraft localization using visual markers
 
-ROS, OpenCV
+Requires ROS (fuerte), OpenCV 2.4.6 or newer.
